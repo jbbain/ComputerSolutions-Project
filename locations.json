@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "New York Location",
+    "street":"324 Water Street",
+    "city":"New York",
+    "state":"NY",
+    "zip":"10002",
+    "phone":"718-555-5555"
+  },
+  
+  {
+    "id":2,
+    "name": "Maryland Location",
+    "street":"832 Cherry Lane",
+    "city": "Bowie",
+    "state": "MD",
+    "zip":"20073",
+    "phone": "292-555-5555"
+  },
+  
+  {
+    "id":3,
+    "name": "Tennessee Location",
+    "street": "231 Poplar Avenue",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38123",
+    "phone": "901-555-5555"
+  }
+]

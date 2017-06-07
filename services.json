@@ -1,0 +1,22 @@
+[
+  {
+    "id":1,
+    "name":"Hardware Repairs",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam cursus sollicitudin erat non facilisis. Maecenas aliquam tellus id venenatis vestibulum. Cras in egestas tortor. Donec ullamcorper suscipit mauris. Morbi in lacus id magna rhoncus dignissim id efficitur risus. Sed vitae interdum erat. Etiam sollicitudin pellentesque velit sit amet aliquam. Nam fermentum facilisis dolor, non gravida nunc. Mauris tincidunt fringilla quam. Sed massa ex, luctus eu aliquet ut, pulvinar eu nisl. Quisque vitae semper enim. Mauris accumsan vulputate arcu nec pretium.",
+    "image": "KYnX8zi.png"
+  },  
+ 
+  {
+    "id":2,
+    "name":"Virus Removal",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam cursus sollicitudin erat non facilisis. Maecenas aliquam tellus id venenatis vestibulum. Cras in egestas tortor. Donec ullamcorper suscipit mauris. Morbi in lacus id magna rhoncus dignissim id efficitur risus. Sed vitae interdum erat. Etiam sollicitudin pellentesque velit sit amet aliquam. Nam fermentum facilisis dolor, non gravida nunc. Mauris tincidunt fringilla quam. Sed massa ex, luctus eu aliquet ut, pulvinar eu nisl. Quisque vitae semper enim. Mauris accumsan vulputate arcu nec pretium.",
+    "image": "KYnX8zi.png"
+  },
+  
+  {
+    "id":3,
+    "name":"System Tuneup",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam cursus sollicitudin erat non facilisis. Maecenas aliquam tellus id venenatis vestibulum. Cras in egestas tortor. Donec ullamcorper suscipit mauris. Morbi in lacus id magna rhoncus dignissim id efficitur risus. Sed vitae interdum erat. Etiam sollicitudin pellentesque velit sit amet aliquam. Nam fermentum facilisis dolor, non gravida nunc. Mauris tincidunt fringilla quam. Sed massa ex, luctus eu aliquet ut, pulvinar eu nisl. Quisque vitae semper enim. Mauris accumsan vulputate arcu nec pretium.",
+    "image": "KYnX8zi.png"
+  }
+]
